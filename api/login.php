@@ -2,7 +2,7 @@
 <?php
 
 // Cargamos Composer (vendor)
-require __DIR__ . '/vendor/autoload.php';
+require __DIR__ . '/../vendor/autoload.php';
 
 // Test básico de PHP + Composer
 echo "✔ Composer está funcionando en Vercel<br>";
